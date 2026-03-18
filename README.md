@@ -1,8 +1,8 @@
 # 👨🏼‍💻 Felllipe Eduardo
 
-**`Desenvolvedor FullStack Em Formação`**
+**`Desenvolvedor Front-End`**
 
-Olá! Meu nome é Fellipe Eduardo, tenho 18 anos e sou de São Paulo. Sou estudante do curso técnico em Informática para Internet no Senac e atualmente estou focado no aprendizado de desenvolvimento Full Stack.
+Olá! Meu nome é Fellipe Eduardo, tenho 18 anos e sou de São Paulo. Sou desenvolvedor Front-End com futuro foco em Fullstack!
 
 Sou apaixonado por tecnologia desde os 6 anos de idade, sempre buscando entender como as coisas funcionam e como a programação pode transformar ideias em soluções reais. Tenho como objetivo iniciar a faculdade de Análise e Desenvolvimento de Sistemas (ADS) em 2027, dando continuidade à minha formação na área de tecnologia.
 
