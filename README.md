@@ -1,10 +1,10 @@
 # 👨🏼‍💻 Felllipe Eduardo
 
-**`Desenvolvedor Front-End`**
+**`Front-End Developer`**
 
-Olá! Meu nome é Fellipe Eduardo, tenho 18 anos e sou de São Paulo. Sou desenvolvedor Front-End com futuro foco em Fullstack!
+Sou apaixonado por tecnologia desde os 5 anos, o que despertou minha curiosidade e vontade constante de aprender. Atualmente, atuo como desenvolvedor front-end, criando interfaces modernas, responsivas e focadas na experiência do usuário.
 
-Sou apaixonado por tecnologia desde os 6 anos de idade, sempre buscando entender como as coisas funcionam e como a programação pode transformar ideias em soluções reais. Tenho como objetivo iniciar a faculdade de Análise e Desenvolvimento de Sistemas (ADS) em 2027, dando continuidade à minha formação na área de tecnologia.
+Trabalho com tecnologias como HTML, CSS e JavaScript, além de utilizar Git e GitHub para versionamento de código e Figma no desenvolvimento de interfaces UI/UX. Estou em constante evolução, sempre buscando aprimorar minhas habilidades e entregar soluções cada vez melhores.
 
 Aqui no GitHub, compartilho meus estudos, projetos e evolução como desenvolvedor.
 
